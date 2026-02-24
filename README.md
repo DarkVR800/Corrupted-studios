@@ -1,2 +1,3 @@
 # Corrupted-studios
-My script's whitelists and my scripts made with Gemini 
+Scripts I have found from Delta.
+# from wearedevs.net, btw
