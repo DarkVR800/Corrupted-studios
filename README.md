@@ -1,4 +1,4 @@
 # Corrupted-studios
-Scripts I have found from Delta.
+Scripts I have made or edited.
 
-from wearedevs.net, btw
+Made with <3 by @Corrupted_VR
